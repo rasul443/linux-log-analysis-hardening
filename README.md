@@ -9,6 +9,8 @@ sudo systemctl enable auditd
 sudo systemctl status auditd
 sudo auditctl -s
 
+![Image alt](https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png)
+
 ## 3. Добавление правила
 sudo auditctl -w /etc/passwd -p wa -k passwd_changes
 
