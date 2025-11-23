@@ -4,6 +4,7 @@
 
 sudo systemctl start auditd
 sudo systemctl enable auditd
+![Скриншот](https://github.com/rasul443/linux-log-analysis-hardening/blob/main/photo_2025-11-22_10-58-31.jpg)
 
 Это активирует auditd и делает так, чтобы он всегда запускался при загрузке.
 
