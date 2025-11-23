@@ -31,6 +31,7 @@ sudo systemctl restart auditd
 Делаем действие, которое обязательно появится в логе. Просто открываем файл /etc/passwd:
 
 sudo nano /etc/passwd
+
 ![Скриншот 3](https://github.com/rasul443/linux-log-analysis-hardening/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-11-23%20033326.png)
 
 
